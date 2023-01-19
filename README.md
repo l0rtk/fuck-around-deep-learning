@@ -1,1 +1,2 @@
-# luknet
+# wify
+Detecting human by wifi
