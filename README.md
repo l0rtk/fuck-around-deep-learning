@@ -1,2 +1,1 @@
-# wify
-Detecting human by wifi
+XOR neural network
